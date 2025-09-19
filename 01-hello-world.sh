@@ -3,3 +3,4 @@
 # this is comment, cant be executed, just for information purpose
 echo "Hello World!"
 echo -e "how are you"
+echo -e "sridhar\nsatya\nbadri"
